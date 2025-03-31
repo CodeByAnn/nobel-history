@@ -1,6 +1,4 @@
-Project: Visualizing the History of Nobel Prize Winner
-
-# **Project Overview**
+# **Project: Visualizing the History of Nobel Prize Winner: Overview**
 
 ### **Objective**
 
