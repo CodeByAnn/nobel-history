@@ -63,11 +63,6 @@ plt.show()
 - **Awards Over Time**: Visualizations showed a consistent increase in awards across categories, reflecting growth in global scientific and cultural contributions.
 - **Age Distribution**: Analysis of age at the time of award revealed trends, such as younger laureates in Physics and older laureates in Peace categories.
 - **Organizational Influence**: Institutions like the University of Cambridge and MIT were prominent, underscoring their role in fostering groundbreaking work.
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b9a3d7ba-c3ee-4b92-8e44-31590cee61f7/06b2ebda-6d66-46c8-8762-e2eee1d9a3cf/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b9a3d7ba-c3ee-4b92-8e44-31590cee61f7/2e3f8548-22fc-4027-9302-7165ccb73916/image.png)
-
 # **End Results and Recommendations**
 
 ### **Key Findings**
